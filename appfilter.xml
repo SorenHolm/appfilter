@@ -2,19 +2,22 @@
 <resources>
 <version>1</version>
 <iconmask img1="iconmask" />
-<iconupon img1="icon_up" />
-<iconback img1="icon_bg" />
+<iconupon img1="iconupon" />
+<iconback img1="iconback" />
 <scale factor="1.00" />
 
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.darkurges.icons/com.hooolm.darkurges.icons.info}" drawable="mine_darkurges" />
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.freehandicons.monochrome/com.hooolm.freehandicons.monochrome.info}" drawable="mine_freehandmonochrome" />
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.freehandicons/com.hooolm.freehandicons.info}" drawable="mine_freehand" />
-<!-- 0_Mine --><item component="ComponentInfo{com.hooolm.luminous/com.hooolm.luminous.info}" drawable="app_luminous" />
+<!-- 0_Mine --><item component="ComponentInfo{com.hooolm.furnace/com.hooolm.furnace.info}" drawable="mine_furnace" />
+<!-- 0_Mine --><item component="ComponentInfo{com.hooolm.luminous/com.hooolm.luminous.info}" drawable="mine_luminous" />
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.metallicons/com.hooolm.metallicons.info}" drawable="mine_metallicons" />
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.portholes/com.hooolm.portholes.info}" drawable="mine_portholes" />
+<!-- 0_Mine --><item component="ComponentInfo{com.hooolm.remicks3dition/com.hooolm.remicks3dition.info}" drawable="mine_remicks3dition" />
+<!-- 0_Mine --><item component="ComponentInfo{com.hooolm.spadesofgrey/com.hooolm.spadesofgrey.info}" drawable="mine_spadesofgrey" />
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.tintedglass.free/com.hooolm.tintedglass.free.info}" drawable="mine_tintedglassfree" />
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.tintedglass/com.hooolm.tintedglass.info}" drawable="mine_tintedglass" />
-<!-- 0_Mine --><item component="ComponentInfo{com.hooolm.whiteroom/com.hooolm.whiteroom.info}" drawable="app_whiteroom" />
+<!-- 0_Mine --><item component="ComponentInfo{com.hooolm.whiteroom/com.hooolm.whiteroom.info}" drawable="mine_whiteroom" />
 <!-- APP: 3 / mit tre --><item component="ComponentInfo{}" drawable="generic_tre" />
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.amazon.android/com.accuweather.amazon.android.LauncherActivity}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.amazon.android/com.accuweather.amazon.android.MainActivity}" drawable="app_accuweather"/>
@@ -29,7 +32,6 @@
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.simpleweatherlite_tcl/com.accuweather.android.simpleweatherlite_tcl.MainActivity}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet.sony/com.accuweather.android.tablet.sony.LauncherActivity}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet.sony/com.accuweather.android.tablet.sony.Main}" drawable="app_accuweather"/>
-<!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet.sonys2/com.accuweather.android.tablet.sonys2.Main}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet/com.accuweather.android.tablet.LauncherActivity}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet/com.accuweather.android.tablet.Main}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android/com.accuweather.android.AccuWeather}" drawable="app_accuweather"/>
@@ -52,7 +54,7 @@
 <!-- APP: Amazon --><item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="app_amazon" />
 <!-- APP: Amazon --><item component="ComponentInfo{de.amazon.mShop.android/com.amazon.mShop.android.home.HomeActivity}" drawable="app_amazon" />
 <!-- APP: Amazon --><item component="ComponentInfo{uk.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="app_amazon" />
-<!-- APP: Amazon Kindle --><item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="app_amazonekindle" />
+<!-- APP: Amazon Kindle --><item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="app_amazonkindle" />
 <!-- APP: Any Do --><item component="ComponentInfo{com.anydo/com.anydo.activity.Main}" drawable="app_anydo" />
 <!-- APP: Apex Launcher --><item component="ComponentInfo{com.anddoes.launcher.pro/com.anddoes.launcher.pro.ApexLauncherProActivity}" drawable="app_apex" />
 <!-- APP: Apex Launcher --><item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="app_apex" />
@@ -738,6 +740,7 @@
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.google.android.gallery3d/com.cooliris.media.Gallery}" drawable="system_gallery"/>
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainCarousel}" drawable="system_gallery"/>
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainDropList}" drawable="system_gallery"/>
+<!-- SYSTEM: Gallery --><item component="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainTabHost}" drawable="system_gallery" />
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.htc.album/com.htc.album.AlbumTabSwitchActivity}" drawable="system_gallery"/>
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.motorola.gallery/com.motorola.gallery.TopScreen}" drawable="system_gallery"/>
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.Gallery}" drawable="system_gallery"/>
@@ -805,7 +808,17 @@
 <!-- SYSTEM: Voice Recorder --><item component="ComponentInfo{com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG}" drawable="system_voicerecorder"/>
 <!-- SYSTEM: Voice Recorder --><item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.VoiceRecorder}" drawable="system_voicerecorder" />
 <!-- SYSTEM: Voice Recorder --><item component="ComponentInfo{com.sec.android.app.voicerecorder/com.sec.android.app.voicerecorder.VoiceRecorderMainActivity}" drawable="system_voicerecorder"/>
-
+<!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet.sonys2/com.accuweather.android.tablet.sonys2.Main}" drawable="app_accuweather"/>
+<!-- APP: Cir.ca News --><item component="ComponentInfo{cir.ca/cir.ca.MainActivity}" drawable="app_circa" />
+<!-- APP: Repix --><item component="ComponentInfo{it.repix.android/it.repix.android.RepixActivity}" drawable="app_repix" />
+<!-- APP: Appy Geek --><item component="ComponentInfo{com.mobilesrepublic.appygeek/com.mobilesrepublic.appygeek.SplashActivity}" drawable="app_appygeek" />
+<!-- APP: Appy Geek --><item component="ComponentInfo{com.mobilesrepublic.appygeektablet/com.mobilesrepublic.appygeektablet.SplashActivity}" drawable="app_appygeek" />
+<!-- APP: Wish --><item component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.ui.activity.login.LoginActivity}" drawable="app_wish" />
+<!-- APP: Wish --><item component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.activity.login.WishLoginActivity}" drawable="app_wish" />
+<!-- APP: Simplenote --><item component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}" drawable="app_simplenote" />
+<!-- APP: QuickPic --><item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="app_quickpic" />
+<!-- APP: QuickPic --><item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleyActivity}" drawable="app_quickpic" />
+<!-- GAME: Monsters University --><item component="ComponentInfo{}" drawable="game_monstersuniversity" />
 </resources>
 
 <!--
