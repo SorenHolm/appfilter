@@ -19,6 +19,8 @@
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.tintedglass/com.hooolm.tintedglass.info}" drawable="mine_tintedglass" />
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.whiteroom/com.hooolm.whiteroom.info}" drawable="mine_whiteroom" />
 <!-- APP: 3 / mit tre --><item component="ComponentInfo{}" drawable="generic_tre" />
+<!-- APP: 3D White --><item component="ComponentInfo{com.hooolm.white3d/com.hooolm.white3d.ThemeActivity}" drawable="app_3dwhite" />
+<!-- APP: 500 Firepaper --><item component="ComponentInfo{eu.chainfire.firepaper.fivehundredpx/eu.chainfire.firepaper.fivehundredpx.MainActivity}" drawable="app_500firepaper" />
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.amazon.android/com.accuweather.amazon.android.LauncherActivity}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.amazon.android/com.accuweather.amazon.android.MainActivity}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.amazon.paid.android/com.accuweather.amazon.paid.android.LauncherActivity}" drawable="app_accuweather"/>
@@ -32,6 +34,7 @@
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.simpleweatherlite_tcl/com.accuweather.android.simpleweatherlite_tcl.MainActivity}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet.sony/com.accuweather.android.tablet.sony.LauncherActivity}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet.sony/com.accuweather.android.tablet.sony.Main}" drawable="app_accuweather"/>
+<!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet.sonys2/com.accuweather.android.tablet.sonys2.Main}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet/com.accuweather.android.tablet.LauncherActivity}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet/com.accuweather.android.tablet.Main}" drawable="app_accuweather"/>
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android/com.accuweather.android.AccuWeather}" drawable="app_accuweather"/>
@@ -62,10 +65,16 @@
 <!-- APP: AppMonger --><item component="ComponentInfo{com.rectangularsoftware.appmonger/com.rectangularsoftware.appmonger.AppmongerActivity}" drawable="app_appmonger" />
 <!-- APP: AppMonger --><item component="ComponentInfo{com.rectangularsoftware.appmonger/com.rectangularsoftware.appmonger.ReportingActivity}" drawable="app_appmonger" />
 <!-- APP: AppXplore --><item component="ComponentInfo{com.sonyericsson.androidapp.AppExplore/com.sonyericsson.androidapp.AppExplore.AppExploreMain}" drawable="app_appxplore" />
+<!-- APP: Appy Geek --><item component="ComponentInfo{com.mobilesrepublic.appygeek/com.mobilesrepublic.appygeek.SplashActivity}" drawable="app_appygeek" />
+<!-- APP: Appy Geek --><item component="ComponentInfo{com.mobilesrepublic.appygeektablet/com.mobilesrepublic.appygeektablet.SplashActivity}" drawable="app_appygeek" />
 <!-- APP: Aqualux / Shoutout to NitrozK --><item component="ComponentInfo{com.nitroz.aqualux/com.nitroz.aqualux.info}" drawable="app_aqualux" />
+<!-- APP: Automatic Call Recorder --><item component="ComponentInfo{com.globaleffect.callrecord/com.globaleffect.callrecord.Activity_Intro}" drawable="app_automaticcallrecorder" />
 <!-- APP: Avast --><item component="ComponentInfo{com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.HomeActivity}" drawable="app_avast" />
 <!-- APP: Avast --><item component="ComponentInfo{com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.home.StartActivity}" drawable="app_avast" />
 <!-- APP: Badoo --><item component="ComponentInfo{com.badoo.mobile/com.badoo.mobile.android.BadooActivity}" drawable="app_badoo" />
+<!-- APP: Banjo --><item component="ComponentInfo{com.banjo.android/com.banjo.android.activity.LoadingSplashActivity}" drawable="app_banjo" />
+<!-- APP: Banjo --><item component="ComponentInfo{com.banjo.android/com.banjo.android.activity.SplashActivity}" drawable="app_banjo" />
+<!-- APP: Banx --><item component="ComponentInfo{org.pure.banx/org.pure.banx.Main}" drawable="app_banx" />
 <!-- APP: Barcode scanner --><item component="ComponentInfo{com.biggu.shopsavvy/com.biggu.shopsavvy.SplashScreen}" drawable="generic_barcode" />
 <!-- APP: Barcode scanner --><item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="generic_barcode" />
 <!-- APP: Barcode scanner --><item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="generic_barcode"/>
@@ -94,9 +103,12 @@
 <!-- APP: Box --><item component="ComponentInfo{com.box.android/com.box.android.activities.Authentication}" drawable="app_box" />
 <!-- APP: Box --><item component="ComponentInfo{com.slice/com.slice.slicemobile.ui.activities.SplashActivity}" drawable="app_box" />
 <!-- APP: BT --><item component="ComponentInfo{com.mecom.bt/com.mecom.bt.BT}" drawable="web_bt" />
+<!-- APP: Business --><item component="ComponentInfo{com.mecom.Business/com.mecom.Business.Business}" drawable="app_business" />
 <!-- APP: Camerafun Pro --><item component="ComponentInfo{com.spiceloop.camerafun/com.spiceloop.camerafun.library.MainController}" drawable="app_camerafunpro" />
 <!-- APP: Camerafun Pro --><item component="ComponentInfo{com.spiceloop.camerafunfree/com.spiceloop.camerafun.library.MainController}" drawable="app_camerafunpro" />
 <!-- APP: Chomp SMS --><item component="ComponentInfo{com.p1.chompsms/com.p1.chompsms.activities.MainActivity}" drawable="app_chompsms" />
+<!-- APP: Cir.ca News --><item component="ComponentInfo{cir.ca/cir.ca.MainActivity}" drawable="app_circa" />
+<!-- APP: Click A Taxi --><item component="ComponentInfo{com.clickataxi/com.clickataxi.Splash}" drawable="app_clickataxi" />
 <!-- APP: CNN --><item component="ComponentInfo{com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.HeadlineActivity}" drawable="app_cnn"/>
 <!-- APP: CNN --><item component="ComponentInfo{com.cnn.mobile.android.tablet/com.cnn.mobile.android.tablet.HeadlineActivity}" drawable="app_cnn"/>
 <!-- APP: CNN --><item component="ComponentInfo{com.cnn.mobile.android.tablet/com.cnn.mobile.android.tablet.ui.HomeActivity}" drawable="app_cnn" />
@@ -153,6 +165,7 @@
 <!-- APP: FarhInfo --><item component="ComponentInfo{de.eos.uptrade.android.fahrinfo.hamburg/de.eos.uptrade.android.fahrinfo.activity.TestActivity}" drawable="app_fahrinfo_hamburg" />
 <!-- APP: FarhInfo --><item component="ComponentInfo{de.eos.uptrade.android.fahrinfo.hamburg/de.eosuptrade.mticket.TickeosActivity}" drawable="app_fahrinfo_hamburg" />
 <!-- APP: FarhInfo --><item component="ComponentInfo{de.eos.uptrade.android.fahrinfo.hamburg/de.eosuptrade.mticket.ticket.TickeosTicketActivity}" drawable="app_fahrinfo_hamburg" />
+<!-- APP: FedEx Mobile --><item component="ComponentInfo{com.fedex.ida.android/com.fedex.ida.android.screens.FedExAndroid}" drawable="app_fedexmobile" />
 <!-- APP: Feedly --><item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="app_feedly"/>
 <!-- APP: Firefox --><item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="app_firefox" />
 <!-- APP: Firefox --><item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="app_firefox" />
@@ -170,12 +183,18 @@
 <!-- APP: Forex --><item component="ComponentInfo{com.frank_weber.forex2/com.frank_weber.forex2.CurrencyConverter2Activity}" drawable="app_wahrungsrechner" />
 <!-- APP: Formspring --><item component="ComponentInfo{me.formspring.app/me.formspring.app.ui.activity.SplashActivity}" drawable="app_formspring" />
 <!-- APP: Foursquare --><item component="ComponentInfo{com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity}" drawable="app_foursquare" />
+<!-- APP: Freehand --><item component="ComponentInfo{com.hooolm.freehandicons/com.hooolm.freehandicons.ThemeActivity}" drawable="app_freehand" />
+<!-- APP: Fresh --><item component="ComponentInfo{com.designrifts.fresh/com.designrifts.fresh.ThemeActivity}" drawable="app_fresh" />
+<!-- APP: Furnace --><item component="ComponentInfo{com.hooolm.furnace/com.hooolm.furnace.ThemeActivity}" drawable="app_furnace" />
 <!-- APP: Gaffa Nyheder --><item component="ComponentInfo{dk.gaffa.gaffanewsapp/dk.gaffa.gaffanewsapp.App}" drawable="web_gaffa" />
+<!-- APP: GitHub --><item component="ComponentInfo{com.github.mobile/com.github.mobile.ui.user.HomeActivity}" drawable="app_github" />
 <!-- APP: GO Fb Chat --><item component="ComponentInfo{com.jb.gosms.chat/com.jb.gosms.facebook.FacebookLoginActivity}" drawable="app_gofbchat" />
 <!-- APP: Go Launcher --><item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.ggheart.apps.desks.diy.GoLauncher}" drawable="app_golauncher" />
 <!-- APP: GO SMS --><item component="ComponentInfo{com.jb.gosms/com.jb.gosms.ui.mainscreen.GoSmsMainActivity}" drawable="app_gosms" />
 <!-- APP: GO SMS --><item component="ComponentInfo{com.jb.mms/com.jb.mms.ui.ConversationList}" drawable="app_gosms" />
+<!-- APP: Google Settings --><item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="google_settings" />
 <!-- APP: Grooveshark --><item component="ComponentInfo{com.grooveshark.android.v1/com.grooveshark.android.v1.activity.Splash}" drawable="app_grooveshark" />
+<!-- APP: Halloween --><item component="ComponentInfo{com.hooolm.halloween/com.hooolm.halloween.ThemeActivity}" drawable="app_halloween" />
 <!-- APP: Handcent SMS / MMS --><item component="ComponentInfo{com.handcent.nextsms/com.handcent.sms.ui.ConversationExList}" drawable="app_handcent" />
 <!-- APP: Handcent SMS / MMS --><item component="ComponentInfo{com.handcent.sms/com.handcent.sms.ui.ConversationList}" drawable="app_handcent" /> 
 <!-- APP: Helium Backup / Carbon Backup --><item component="ComponentInfo{com.koushikdutta.backup/com.koushikdutta.backup.MainActivity}" drawable="app_helium" />
@@ -203,8 +222,11 @@
 <!-- APP: Kids Mode --><item component="ComponentInfo{com.zoodles.kidmode/com.zoodles.kidmode.activity.parent.ParentDashboardLauncherActivity}" drawable="app_kidsmode" /> 
 <!-- APP: Kies air --><item component="ComponentInfo{com.samsung.swift.app.kiesair/com.samsung.swift.applet.AppletActivity}" drawable="app_kiesair" />
 <!-- APP: KIK Messenger --><item component="ComponentInfo{kik.android/kik.android.chat.fragment.KikFragmentActivity}" drawable="app_kikmessenger" />
+<!-- APP: Krak --><item component="ComponentInfo{com.krakk.android/com.eniro.core.android.map.MapActivity}" drawable="app_krak" />
 <!-- APP: LastFM --><item component="ComponentInfo{fm.last.android/fm.last.android.LastFm}" drawable="app_lastfm" />
 <!-- APP: LastPass --><item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.LPandroid}" drawable="app_lastpass" />
+<!-- APP: LastPass --><item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.WebBrowserActivity}" drawable="app_lastpass" />
+<!-- APP: Light Flow --><item component="ComponentInfo{com.rageconsulting.android.lightflow/com.rageconsulting.android.lightflow.MainActivity}" drawable="app_lightflow" />
 <!-- APP: Linkedin --><item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="app_linkedin"/>
 <!-- APP: Lookout Mobile Security --><item component="ComponentInfo{com.lookout.addetector/com.lookout.addetector.ScannerMainActivity}" drawable="app_lookout" />
 <!-- APP: Lookout Mobile Security --><item component="ComponentInfo{com.lookout.cleaner.droiddream/com.lookout.cleaner.droiddream.DroidDreamCleaner}" drawable="app_lookout" />
@@ -215,6 +237,7 @@
 <!-- APP: Mapfactor Navigator --><item component="ComponentInfo{com.mapfactor.navigator/com.mapfactor.navigator.map.MapActivity}" drawable="app_mapfactor_navigator" />
 <!-- APP: Mapfactor Navigator --><item component="ComponentInfo{com.mapfactor.navigator/com.mapfactor.navigator.MapActivity}" drawable="app_mapfactor_navigator" />
 <!-- APP: Medscape --><item component="ComponentInfo{com.medscape.android/com.medscape.android.welcome.WelcomeActivity}" drawable="app_medscape" />
+<!-- APP: Metallicons --><item component="ComponentInfo{com.hooolm.metallicons/com.hooolm.metallicons.ThemeActivity}" drawable="app_metallicons" />
 <!-- APP: Mit Nykredit --><item component="ComponentInfo{dk.nykredit.mobile.android/dk.nykredit.mobile.android.SplashScreenActivity}" drawable="app_nykredit" />
 <!-- APP: mitfahrgelegenheit --><item component="ComponentInfo{com.carpooling.android.at/com.carpooling.android.ui.HomeActivity}" drawable="app_mitfahrgelegenheit"/>
 <!-- APP: mitfahrgelegenheit --><item component="ComponentInfo{com.carpooling.android.at/com.carpooling.android.ui.spaces.home.HomeActivity}" drawable="app_mitfahrgelegenheit"/>
@@ -240,9 +263,12 @@
 <!-- APP: mitfahrgelegenheit --><item component="ComponentInfo{com.carpooling.android.uk/com.carpooling.android.ui.HomeActivity}" drawable="app_mitfahrgelegenheit"/>
 <!-- APP: mitfahrgelegenheit --><item component="ComponentInfo{com.carpooling.android.uk/com.carpooling.android.ui.spaces.home.HomeActivity}" drawable="app_mitfahrgelegenheit"/>
 <!-- APP: mitfahrgelegenheit --><item component="ComponentInfo{com.carpooling.android.uk/com.carpooling.android.ui.StartupActivity}" drawable="app_mitfahrgelegenheit"/>
+<!-- APP: MobilBarn --><item component="ComponentInfo{dk.assemble.mitbarnodense/dk.assemble.mitbarnodense.activities.LoginActivity}" drawable="app_mobilbarn" />
 <!-- APP: Mobile Odin --><item component="ComponentInfo{eu.chainfire.mobileodin.pro/eu.chainfire.mobileodin.core.MainActivity}" drawable="app_mobileodin" />
+<!-- APP: Music Maker Jam --><item component="ComponentInfo{com.magix.android.mmjam/com.magix.android.mumajam.MainActivity}" drawable="app_musicmakerjam" />
 <!-- APP: MusiXmatch --><item component="ComponentInfo{com.musixmatch.android.lyrify/com.designfuture.music.ui.phone.DashBoardActivity}" drawable="app_musixmatch" />
 <!-- APP: MusiXmatch --><item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.activities.MainActivity}" drawable="app_musixmatch" />
+<!-- APP: Nespresso --><item component="ComponentInfo{com.nespresso.activities/com.nespresso.mobile.container.activity.SplashScreen}" drawable="app_nespresso" />
 <!-- APP: Netflix --><item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}" drawable="app_netflix" />
 <!-- APP: Netflix --><item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewTabletActivity}" drawable="app_netflix" />
 <!-- APP: NFC Task Launcher --><item component="ComponentInfo{com.jwsoft.nfcactionlauncher/com.jwsoft.nfcactionlauncher.Main}" drawable="app_nfctasklauncher" />
@@ -260,12 +286,14 @@
 <!-- APP: NFL Mobile --><item component="ComponentInfo{com.gotv.nflgamecenter.us.lite/com.gotv.nflgamecenter.activity.LaunchActivity}" drawable="app_nflmobile" />
 <!-- APP: NFL Mobile --><item component="ComponentInfo{com.gotv.nflgamecenter.us.lite/com.nfl.mobile.nfl.SplashScreenV2}" drawable="app_nflmobile" /> 
 <!-- APP: NFL Mobile --><item component="ComponentInfo{com.mobitv.client.nfl2010/com.mobitv.client.nfl2010.MobiTVPlayer}" drawable="generic_nfl" />
+<!-- APP: NiLS --><item component="ComponentInfo{com.roymam.android.notificationswidget/com.roymam.android.notificationswidget.SettingsActivity}" drawable="app_nils" />
 <!-- APP: NotifyMyAndroid --><item component="ComponentInfo{com.usk.app.notifymyandroid/com.usk.app.notifymyandroid.NotifyMyAndroid}" drawable="app_notifymyandroid" />
 <!-- APP: Nova Launcher --><item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="app_nova" />
 <!-- APP: Nova Launcher --><item component="ComponentInfo{com.teslacoilsw.launcher/com.android.launcher2.Launcher}" drawable="app_nova" />
 <!-- APP: Nova Launcher --><item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="app_nova" />
 <!-- APP: Nova Launcher --><item component="ComponentInfo{com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings}" drawable="app_nova" />
 <!-- APP: NY Times / New York Times --><item component="ComponentInfo{com.nytimes.android/com.nytimes.android.activity.MainActivity}" drawable="web_newyorktimes"/>
+<!-- APP: NZB 360 --><item component="ComponentInfo{com.kevinforeman.sabconnect/com.kevinforeman.sabconnect.StartupLauncher}" drawable="app_nzb360" />
 <!-- APP: NZB360 --><item component="ComponentInfo{com.kevinforeman.sabconnect/com.kevinforeman.sabconnect.NZBView}" drawable="app_nzb360" />
 <!-- APP: One Tap Hero --><item component="ComponentInfo{com.cis.oth/com.cis.oth.AllegroActivity}" drawable="game_onetaphero" />
 <!-- APP: Open Garden --><item component="ComponentInfo{com.opengarden.android.MeshClient/com.opengarden.android.MeshClient.MeshClient}" drawable="app_opengarden" />
@@ -299,6 +327,7 @@
 <!-- APP: Photoshop Mobile / Touch --><item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.PhotoshopMobile}" drawable="app_photoshop" />
 <!-- APP: Photoshop Mobile / Touch --><item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.PhotoshopMobile}" drawable="app_photoshop"/>
 <!-- APP: Pinterest --><item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="app_pinterest"/>
+<!-- APP: Pixlr Express --><item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="app_pixlrexpress" />
 <!-- APP: Plex --><item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.HomeActivity}" drawable="app_plex" />
 <!-- APP: Plex --><item component="ComponentInfo{com.plexapp.plex/com.plexapp.plex.activities.HomeActivity}" drawable="app_plex" />
 <!-- APP: Plume --><item component="ComponentInfo{com.levelup.touiteur/com.levelup.touiteur.TouiteurMain}" drawable="app_plume" />
@@ -314,7 +343,11 @@
 <!-- APP: Pulse News --><item component="ComponentInfo{com.alphonso.pulse/com.alphonso.pulse.newsrack.NewsRackActivity}" drawable="app_pulse" />
 <!-- APP: QIK --><item component="ComponentInfo{com.qiktmobile.android/com.qik.android.HomeM2M}" drawable="app_qik" />
 <!-- APP: QR code --><item component="ComponentInfo{com.qrbarcodescanner.adfree/com.qrbarcodescanner.adfree.Tab}" drawable="generic_qrcode" /> 
+<!-- APP: Quickoffice --><item component="ComponentInfo{com.quickoffice.android/com.google.android.apps.docs.quickoffice.HomeActivity}" drawable="app_quickoffice" />
+<!-- APP: QuickPic --><item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="app_quickpic" />
+<!-- APP: QuickPic --><item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleyActivity}" drawable="app_quickpic" />
 <!-- APP: RDIO --><item component="ComponentInfo{com.rdio.android.ui/rdio.activities.MainActivity}" drawable="app_rdio" />
+<!-- APP: Repix --><item component="ComponentInfo{it.repix.android/it.repix.android.RepixActivity}" drawable="app_repix" />
 <!-- APP: Robin --><item component="ComponentInfo{in.rob.client/in.rob.client.SplashActivity}" drawable="app_robin" />
 <!-- APP: Robird --><item component="ComponentInfo{com.aaplab.android.robird/com.aaplab.android.robird.ui.MainActivity}" drawable="app_robird" /> 
 <!-- APP: Robird --><item component="ComponentInfo{com.aaplab.android.robird/com.aaplab.android.robird.ui.TimeLineActivity}" drawable="app_robird" />
@@ -331,6 +364,8 @@
 <!-- APP: RootzWiki --><item component="ComponentInfo{net.endoftime.android.forumrunner.avsforum/net.endoftime.android.forumrunner.activity.SplashActivity}" drawable="generic_rootzwiki" />
 <!-- APP: RunKeeper --><item component="ComponentInfo{com.fitnesskeeper.runkeeper.pro/com.fitnesskeeper.runkeeper.RunKeeperActivity}" drawable="app_runkeeper" />
 <!-- APP: RunKeeper --><item component="ComponentInfo{com.fitnesskeeper.runkeeper.pro/com.fitnesskeeper.runkeeper.RunKeeperLaunchScreenActivity}" drawable="app_runkeeper" />
+<!-- APP: Runtastic Sixpack --><item component="ComponentInfo{com.runtastic.android.sixpack.lite/com.runtastic.android.sixpack.activities.SixpackLoginActivity}" drawable="app_runtasticsixpack" />
+<!-- APP: Runtastic Sixpack --><item component="ComponentInfo{com.runtastic.android.sixpack.pro/com.runtastic.android.sixpack.activities.SixpackLoginActivity}" drawable="app_runtasticsixpack" />
 <!-- APP: Samsung Allshare --><item component="ComponentInfo{com.sec.android.app.allshare/com.sec.android.app.allshare.activity.actMain}" drawable="app_allshare" />
 <!-- APP: SD Maid --><item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.Preferences}" drawable="app_sdmaid" />
 <!-- APP: SD Maid --><item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.SDMMain}" drawable="app_sdmaid" />
@@ -342,14 +377,17 @@
 <!-- APP: Shazam --><item component="ComponentInfo{com.shazam.motoid/com.shazam.motoid.Home}" drawable="app_shazam" />
 <!-- APP: Shazam --><item component="ComponentInfo{ru.morecontent.music/ru.morecontent.music.YotaShazamActivity}" drawable="app_shazam" />
 <!-- APP: Simple Calendar Widget --><item component="ComponentInfo{com.anod.calendar/com.anod.calendar.HelpActivity}" drawable="app_simplecalendarwidget" />
+<!-- APP: Simplenote --><item component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}" drawable="app_simplenote" />
 <!-- APP: Skydrive (while it lasts) --><item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="app_skydrive" />
 <!-- APP: Skydroid --><item component="ComponentInfo{com.goldsteintech.android/com.goldsteintech.android.CoursesList}" drawable="app_skydroid" />
 <!-- APP: Skype --><item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="app_skype" />
 <!-- APP: Sliding Messaging --><item component="ComponentInfo{com.klinker.android.messaging/com.klinker.android.messaging.MainActivity}" drawable="app_slidingpro" />
 <!-- APP: Sliding Messaging Pro --><item component="ComponentInfo{com.klinker.android.messaging_donate/com.klinker.android.messaging_donate.MainActivity}" drawable="app_slidingpro" />
+<!-- APP: Smoke In A Bubble --><item component="ComponentInfo{com.hooolm.smokeinabubble/com.hooolm.smokeinabubble.ThemeActivity}" drawable="app_smokeinabubble" />
 <!-- APP: SMS Backup and restore --><item component="ComponentInfo{com.riteshsahu.SMSBackupRestore/com.riteshsahu.SMSBackupRestore.FreeMain}" drawable="app_smsbackuprestore"/>
 <!-- APP: SMS Backup and restore --><item component="ComponentInfo{com.riteshsahu.SMSBackupRestorePro/com.riteshsahu.SMSBackupRestorePro.ProMain}" drawable="app_smsbackuprestore"/>
 <!-- APP: SnapChat --><item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="app_snapchat"/>
+<!-- APP: Snapseed --><item component="ComponentInfo{com.niksoftware.snapseed/com.niksoftware.snapseed.MainActivity}" drawable="app_snapseed" />
 <!-- APP: Solid Explorer --><item component="ComponentInfo{pl.solidexplorer/pl.solidexplorer.SolidExplorer}" drawable="app_solidexplorer"/>
 <!-- APP: Sonos --><item component="ComponentInfo{com.sonos.acr/com.sonos.acr.SonosHomeScreenActivity}" drawable="app_sonos" />
 <!-- APP: Sony TrackID --><item component="ComponentInfo{com.sonyericsson.trackid/com.sonyericsson.trackid.activity.WidgetHandlerActivity}" drawable="app_sonytrackid" />
@@ -370,6 +408,7 @@
 <!-- APP: Spotify --><item component="ComponentInfo{com.spotify.mobile.android.ui/com.spotify.mobile.android.ui.Launcher}" drawable="app_spotify"/>
 <!-- APP: Springpad --><item component="ComponentInfo{com.springpad/com.springpad.activities.HomeActivity}" drawable="app_springpad" />
 <!-- APP: StumbleUpon --><item component="ComponentInfo{com.stumbleupon.android.app/com.stumbleupon.android.app.activities.WelcomeActivity}" drawable="app_stumbleupon" />
+<!-- APP: SuperSU --><item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Emblem}" drawable="app_supersu" />
 <!-- APP: SuperUser --><item component="ComponentInfo{com.noshufou.android.su/com.noshufou.android.su.Su}" drawable="app_superuser" />
 <!-- APP: SwiftKey --><item component="ComponentInfo{com.touchtype.swiftkey.phone.flow.obeta/com.touchtype.LauncherActivity}" drawable="app_swiftkey"/>
 <!-- APP: SwiftKey --><item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivity}" drawable="app_swiftkey"/>
@@ -388,6 +427,7 @@
 <!-- APP: Tasks --><item component="ComponentInfo{ch.teamtasks.tasks.paid/ch.teamtasks.tasks.MainActivity}" drawable="app_tasks" /> 
 <!-- APP: Tasks --><item component="ComponentInfo{ch.teamtasks.tasks.paid/ch.teamtasks.tasks.paid.MainActivity}" drawable="app_tasks" /> 
 <!-- APP: Tasks --><item component="ComponentInfo{ch.teamtasks.tasks/ch.teamtasks.tasks.MainActivity}" drawable="app_tasks" />
+<!-- APP: TaxaFyn --><item component="ComponentInfo{com.insilico.FrongeTaxi.Taxafyn/dk.insilico.taxi.mainmenu.Splashscreen}" drawable="app_taxafyn" />
 <!-- APP: TeamViewer --><item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="app_teamviewer"/>
 <!-- APP: Temple Run --><item component="ComponentInfo{com.imangi.templerun/com.unity3d.player.UnityPlayerProxyActivity}" drawable="game_templerun" />
 <!-- APP: Temple Run2 --><item component="ComponentInfo{com.imangi.templerun2/com.unity3d.player.UnityPlayerProxyActivity}" drawable="game_templerun2" />
@@ -457,9 +497,12 @@
 <!-- APP: White Noise --><item component="ComponentInfo{com.tmsoft.whitenoise.full/com.tmsoft.whitenoise.full.WhiteNoise}" drawable="app_whitenoise" />
 <!-- APP: White Noise --><item component="ComponentInfo{com.tmsoft.whitenoise.lite/com.tmsoft.whitenoise.lite.MainActivity}" drawable="app_whitenoise" />
 <!-- APP: White Noise --><item component="ComponentInfo{com.tmsoft.whitenoise.lite/com.tmsoft.whitenoise.lite.WhiteNoise}" drawable="app_whitenoise" />
+<!-- APP: WhiteRoom --><item component="ComponentInfo{com.hooolm.whiteroom/com.hooolm.whiteroom.ThemeActivity}" drawable="app_whiteroom" />
 <!-- APP: WiFi Analyzer / Analyser --><item component="ComponentInfo{com.farproc.wifi.analyzer/com.farproc.wifi.analyzer.MainScreen}" drawable="app_wifianalyzer" />
 <!-- APP: Wikipedia--><item component="ComponentInfo{org.wikipedia/org.wikipedia.WikipediaActivity}" drawable="app_wikipedia" />
 <!-- APP: Winamp --><item component="ComponentInfo{com.nullsoft.winamp/com.nullsoft.winamp.SplashScreenActivity}" drawable="app_winamp" />
+<!-- APP: Wish --><item component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.activity.login.WishLoginActivity}" drawable="app_wish" />
+<!-- APP: Wish --><item component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.ui.activity.login.LoginActivity}" drawable="app_wish" />
 <!-- APP: Wordpress --><item component="ComponentInfo{org.wordpress.android/org.wordpress.android.Dashboard}" drawable="app_wordpress" />
 <!-- APP: Wunderlist --><item component="ComponentInfo{com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.StartupActivity}" drawable="app_wunderlist" />
 <!-- APP: Wunderlist --><item component="ComponentInfo{com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.WLSlideShowActivity}" drawable="app_wunderlist" />
@@ -473,6 +516,7 @@
 <!-- APP: XDA Developers --><item component="ComponentInfo{com.quoord.tapatalkxdapre.activity/com.quoord.tapatalkxdapre.activity.forum.ForumNavigationActivity}" drawable="app_xda"/>
 <!-- APP: XDA Developers --><item component="ComponentInfo{com.quoord.xdapad.activity/com.quoord.xdapad.activity.forum.ForumNavigationActivity}" drawable="app_xda" />
 <!-- APP: XDA Developers --><item component="ComponentInfo{com.quoord.xdapad.activity/com.quoord.xdapad.activity.forum.ForumNavigationActivity}" drawable="app_xda"/>
+<!-- APP: XDA Premium 4 --><item component="ComponentInfo{com.quoord.tapatalkxdapre.activity/com.quoord.tapatalkpro.activity.directory.ics.IcsRebrandingEntryActivity}" drawable="app_xda" />
 <!-- APP: Xda TV --><item component="ComponentInfo{com.andromo.dev28283.app30475/com.andromo.dev28283.app30475.AndromoDashboardActivity}" drawable="app_xdatv"/>
 <!-- APP: Xda TV --><item component="ComponentInfo{com.nathanpc.xdatv.phone.black/com.nathanpc.xdatv.phone.black.Main}" drawable="app_xdatv"/>
 <!-- APP: Xda TV --><item component="ComponentInfo{com.nathanpc.xdatv.phone/com.nathanpc.xdatv.phone.XDATVActivity}" drawable="app_xdatv"/>
@@ -524,6 +568,8 @@
 <!-- GAME: Cut The Rope Time Travel --><item component="ComponentInfo{com.zeptolab.timetravel.free.google/com.zeptolab.ctrtt.CTRTTActivity}" drawable="game_cuttheropetimetravel" />
 <!-- GAME: Cut The Rope Time Travel --><item component="ComponentInfo{com.zeptolab.timetravel.paid.google/com.zeptolab.ctrtt.CTRTTActivity}" drawable="game_cuttheropetimetravel" />
 <!-- GAME: Doodle Jump --><item component="ComponentInfo{com.realarcade.DOJ/com.realarcade.DOJ.MrGame}" drawable="game_doodlejump" />
+<!-- GAME: Dots --><item component="ComponentInfo{com.nerdyoctopus.gamedots/com.apportable.activity.VerdeActivity}" drawable="game_dots" />
+<!-- GAME: Dragon City --><item component="ComponentInfo{es.socialpoint.DragonCity/es.socialpoint.DragonCity.DragonCity}" drawable="game_dragoncity" />
 <!-- GAME: Draw Something --><item component="ComponentInfo{com.omgpop.dstfree/com.omgpop.dstfree.Main}" drawable="game_drawsomething" />
 <!-- GAME: Draw Something --><item component="ComponentInfo{com.omgpop.dstpaid/com.omgpop.dstpaid.Main}" drawable="game_drawsomething" />
 <!-- GAME: Flow Free Bridges --><item component="ComponentInfo{com.bigduckgames.flowbridges/com.bigduckgames.flowbridges.flow}" drawable="game_flowfreebridges" />
@@ -537,6 +583,7 @@
 <!-- GAME: Fruit Ninja --><item component="ComponentInfo{com.halfbrick.fruitninjafree/com.halfbrick.fruitninja.FruitNinjaActivity}" drawable="game_fruitninja"/>
 <!-- GAME: Fruit Ninja --><item component="ComponentInfo{com.halfbrick.fruitninjapib/com.halfbrick.mortar.MortarLVLGameActivity}" drawable="game_fruitninja" />
 <!-- GAME: Fruit Ninja --><item component="ComponentInfo{com.halfbrick.fruitninjathdfree/com.halfbrick.fruitninja.FruitNinjaActivity}" drawable="game_fruitninja" />
+<!-- GAME: Ghost Busters Paranormal Blast --><item component="ComponentInfo{com.xmg.ghostbusters/com.xmg.ghostbusters.GhostbustersUnityActivity}" drawable="game_ghostbusters" />
 <!-- GAME: Ingress / Niantic --><item component="ComponentInfo{com.nianticproject.ingress/com.nianticproject.ingress.NemesisActivity}" drawable="game_ingress" />
 <!-- GAME: Ingress / Niantic --><item component="ComponentInfo{}" drawable="game_ingress" />
 <!-- GAME: Manuganu  --><item component="ComponentInfo{com.Alper.Manuganu/com.unity3d.player.UnityPlayerProxyActivity}" drawable="game_manuganu" />
@@ -544,12 +591,14 @@
 <!-- GAME: Minecraft --><item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="game_minecraft"/>
 <!-- GAME: Mini Motor Racing --><item component="ComponentInfo{com.nextgenreality.minimoto/com.minimotor.SkyNetPrivateUnityActivity}" drawable="game_minimotorracing" />
 <!-- GAME: Minion Rush --><item component="ComponentInfo{com.gameloft.android.ANMP.GloftDMHM/com.gameloft.android.ANMP.GloftDMHM.Game}" drawable="game_minionrush"/>
+<!-- GAME: Monsters University --><item component="ComponentInfo{}" drawable="game_monstersuniversity" />
 <!-- GAME: Plants vs Zombies --><item component="ComponentInfo{com.popcap.pvz/com.popcap.pvz.Main}" drawable="game_plantsvszombies"/>
 <!-- GAME: Plants vs Zombies --><item component="ComponentInfo{com.popcap.pvz_row/com.popcap.pvz_row.Main}" drawable="game_plantsvszombies"/>
 <!-- GAME: Pudding Monsters --><item component="ComponentInfo{com.zeptolab.monsters.free.google/com.zeptolab.mvsl.MVSLActivity}" drawable="game_puddingmonsters" />
 <!-- GAME: Pudding Monsters --><item component="ComponentInfo{com.zeptolab.monsters.paid.google/com.zeptolab.mvsl.MVSLActivity}" drawable="game_puddingmonsters" />
 <!-- GAME: REAPER  --><item component="ComponentInfo{net.hexage.reaper/net.hexage.reaper.MainActivity}" drawable="game_reaper" />
 <!-- GAME: Ruzzle --><item component="ComponentInfo{se.maginteractive.rumble.free/se.maginteractive.rumble.activities.SplashActivity}" drawable="game_ruzzle"/>
+<!-- GAME: Ski Safari --><item component="ComponentInfo{com.DefiantDev.SkiSafari/com.prime31.UnityPlayerProxyActivity}" drawable="game_skisafari" />
 <!-- GAME: Ski Safari --><item component="ComponentInfo{com.DefiantDev.SkiSafari/com.unity3d.player.UnityPlayerProxyActivity}" drawable="game_skisafari" />
 <!-- GAME: Steam --><item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.CommunityActivity}" drawable="game_steam" />
 <!-- GAME: Subway Surfers --><item component="ComponentInfo{com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity}" drawable="game_subwaysurfers"/>
@@ -596,6 +645,7 @@
 <!-- GOOGLE: Chrome --><item component="ComponentInfo{com.chrome.beta/com.chrome.beta.com.google.android.apps.chrome.tests.TestLauncher}" drawable="google_chrome" />
 <!-- GOOGLE: Chrome --><item component="ComponentInfo{com.google.android.apps.chrome/com.google.android.apps.chrome.Main}" drawable="google_chrome" />
 <!-- GOOGLE: Chrome to phone --><item component="ComponentInfo{com.google.android.apps.chrometophone/com.google.android.apps.chrometophone.HistoryActivity}" drawable="google_chrometophone"/>
+<!-- GOOGLE: Chromecast --><item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="google_chromecast" />
 <!-- Google: CloudPrint --><item component="ComponentInfo{com.google.android.apps.cloudprint/com.google.android.apps.cloudprint.printdialog.CloudPrintLauncherActivity}" drawable="google_cloudprint"/>
 <!-- GOOGLE: Currents --><item component="ComponentInfo{com.google.android.apps.currents/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="google_currents" />
 <!-- GOOGLE: Drive --><item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive" />
@@ -680,6 +730,7 @@
 <!-- SYSTEM: Camera --><item component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="system_camera"/>
 <!-- SYSTEM: Camera --><item component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}" drawable="system_camera"/>
 <!-- SYSTEM: Camera --><item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="system_camera"/>
+<!-- SYSTEM: Camera --><item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="system_camera" />
 <!-- SYSTEM: Camera --><item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="system_camera"/>
 <!-- SYSTEM: Camera --><item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="system_camera"/>
 <!-- SYSTEM: Camera --><item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="system_camera"/>
@@ -736,6 +787,7 @@
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.android.camera/com.android.camera.GalleryPicker}" drawable="system_gallery"/>
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="system_gallery"/>
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.cooliris.media/com.cooliris.media.Gallery}" drawable="system_gallery"/>
+<!-- SYSTEM: Gallery --><item component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="system_gallery" />
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="system_gallery"/>
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.google.android.gallery3d/com.cooliris.media.Gallery}" drawable="system_gallery"/>
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainCarousel}" drawable="system_gallery"/>
@@ -745,6 +797,7 @@
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.motorola.gallery/com.motorola.gallery.TopScreen}" drawable="system_gallery"/>
 <!-- SYSTEM: Gallery --><item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.Gallery}" drawable="system_gallery"/>
 <!-- SYSTEM: HTC Settings, BlueTooth --><item component="ComponentInfo{com.android.settings/com.android.settings.bluetooth.BluetoothSettings}" drawable="system_bluetooth" />
+<!-- SYSTEM: Launcher --><item component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}" drawable="system_launcher" />
 <!-- SYSTEM: News and Weather--><item component="ComponentInfo{com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity}" drawable="system_news"/>
 <!-- SYSTEM: News and Weather--><item component="ComponentInfo{com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewWidgetConfigurationActivity}" drawable="system_news"/>
 <!-- SYSTEM: Phone --><item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="system_phone" />
@@ -781,6 +834,7 @@
 <!-- SYSTEM: Phone --><item component="ComponentInfo{com.android.phone/com.android.phone.RecentCallsListActivity}" drawable="system_phone" />
 <!-- SYSTEM: Phone --><item component="ComponentInfo{com.android.phone/com.android.phone.Settings}" drawable="system_phone" />
 <!-- SYSTEM: Phone --><item component="ComponentInfo{com.android.phone/com.android.phone.TwDialer}" drawable="system_phone" />
+<!-- SYSTEM: Phone --><item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="system_phone" />
 <!-- SYSTEM: Phone --><item component="ComponentInfo{com.motorola.blur/com.motorola.blur.ViewIdentitiesFacetActivity}" drawable="system_phone" />
 <!-- SYSTEM: Phone --><item component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}" drawable="system_phone"/>
 <!-- SYSTEM: Phone --><item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}" drawable="system_phone"/>
@@ -792,6 +846,7 @@
 <!-- SYSTEM: Settings --><item component="ComponentInfo{com.android.settings/com.android.settings.TetherSettingsActivity}" drawable="system_settings"/>
 <!-- SYSTEM: Settings --><item component="ComponentInfo{com.android.settings/com.android.settings.TetherSettingsWifi}" drawable="system_settings"/>
 <!-- SYSTEM: Settings --><item component="ComponentInfo{com.android.settings/com.android.settings.TetherSettings}" drawable="system_settings"/>
+<!-- SYSTEM: SIM Tool Kit --><item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="system_simtoolkit" />
 <!-- SYSTEM: SMS / MMS / Messaging --><item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="system_sms"/>
 <!-- SYSTEM: SMS / MMS / Messaging --><item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="system_sms"/>
 <!-- SYSTEM: SMS / MMS / Messaging --><item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="system_sms"/>
@@ -808,17 +863,6 @@
 <!-- SYSTEM: Voice Recorder --><item component="ComponentInfo{com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG}" drawable="system_voicerecorder"/>
 <!-- SYSTEM: Voice Recorder --><item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.VoiceRecorder}" drawable="system_voicerecorder" />
 <!-- SYSTEM: Voice Recorder --><item component="ComponentInfo{com.sec.android.app.voicerecorder/com.sec.android.app.voicerecorder.VoiceRecorderMainActivity}" drawable="system_voicerecorder"/>
-<!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.android.tablet.sonys2/com.accuweather.android.tablet.sonys2.Main}" drawable="app_accuweather"/>
-<!-- APP: Cir.ca News --><item component="ComponentInfo{cir.ca/cir.ca.MainActivity}" drawable="app_circa" />
-<!-- APP: Repix --><item component="ComponentInfo{it.repix.android/it.repix.android.RepixActivity}" drawable="app_repix" />
-<!-- APP: Appy Geek --><item component="ComponentInfo{com.mobilesrepublic.appygeek/com.mobilesrepublic.appygeek.SplashActivity}" drawable="app_appygeek" />
-<!-- APP: Appy Geek --><item component="ComponentInfo{com.mobilesrepublic.appygeektablet/com.mobilesrepublic.appygeektablet.SplashActivity}" drawable="app_appygeek" />
-<!-- APP: Wish --><item component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.ui.activity.login.LoginActivity}" drawable="app_wish" />
-<!-- APP: Wish --><item component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.activity.login.WishLoginActivity}" drawable="app_wish" />
-<!-- APP: Simplenote --><item component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}" drawable="app_simplenote" />
-<!-- APP: QuickPic --><item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="app_quickpic" />
-<!-- APP: QuickPic --><item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleyActivity}" drawable="app_quickpic" />
-<!-- GAME: Monsters University --><item component="ComponentInfo{}" drawable="game_monstersuniversity" />
 </resources>
 
 <!--
