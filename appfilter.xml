@@ -18,7 +18,6 @@
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.tintedglass.free/com.hooolm.tintedglass.free.info}" drawable="mine_tintedglassfree" />
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.tintedglass/com.hooolm.tintedglass.info}" drawable="mine_tintedglass" />
 <!-- 0_Mine --><item component="ComponentInfo{com.hooolm.whiteroom/com.hooolm.whiteroom.info}" drawable="mine_whiteroom" />
-<!-- APP: 3 / mit tre --><item component="ComponentInfo{}" drawable="generic_tre" />
 <!-- APP: 3D White --><item component="ComponentInfo{com.hooolm.white3d/com.hooolm.white3d.ThemeActivity}" drawable="app_3dwhite" />
 <!-- APP: 500 Firepaper --><item component="ComponentInfo{eu.chainfire.firepaper.fivehundredpx/eu.chainfire.firepaper.fivehundredpx.MainActivity}" drawable="app_500firepaper" />
 <!-- APP: Accuweather --><item component="ComponentInfo{com.accuweather.amazon.android/com.accuweather.amazon.android.LauncherActivity}" drawable="app_accuweather"/>
