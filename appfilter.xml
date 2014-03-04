@@ -151,6 +151,9 @@
 <!-- APP: Assistant --><item component="ComponentInfo{com.jrdcom.setupwizard/com.jrdcom.setupwizard.ui.SetupWizardStartActivity}" drawable="app_assistant" />
 <!-- APP: ASTRO Bluetooth Module --><item component="ComponentInfo{com.metago.astro.network.bluetooth/com.metago.astro.network.bluetooth.ASTROBluetoothActivity}" drawable="app_astrobluetoothmodule" />
 <!-- APP: ASTRO File Manager --><item component="ComponentInfo{com.metago.astro/com.metago.astro.MainActivity}" drawable="app_astrofilemanager" />
+<!-- APP: At Bat --><item component="ComponentInfo{com.bamnetworks.mobile.android.gameday.atbat/com.bamnetworks.mobile.android.gameday.activities.SplashScreenActivity}" drawable="app_atbat" />
+<!-- APP: At Bat --><item component="ComponentInfo{com.bamnetworks.mobile.android.gameday.atbat2011.full/com.bamnetworks.mobile.android.gameday.activities.MainActivity}" drawable="app_atbat" />
+<!-- APP: At Bat --><item component="ComponentInfo{com.bamnetworks.mobile.android.gameday.atbat2011.tablet/com.bamnetworks.mobile.android.gameday.atbat2011.tablet.activities.SplashActivity}" drawable="app_atbat" />
 <!-- APP: ATandT Code Scanner --><item component="ComponentInfo{com.mtag.att.codescanner/com.mtag.att.codescanner.Mobiletag}" drawable="app_atandtcodescanner" />
 <!-- APP: ATandT Code Scanner --><item component="ComponentInfo{com.mtag.att.codescanner/com.ScanLife.Main}" drawable="app_atandtcodescanner" />
 <!-- APP: ATandT DriveMode --><item component="ComponentInfo{com.drivemode/com.drivemode.activity.SplashScreen}" drawable="app_atandtdrivemode" />
@@ -165,6 +168,8 @@
 <!-- APP: Audible --><item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="app_audible" />
 <!-- APP: AudioManager --><item component="ComponentInfo{com.smartandroidapps.audiowidget/com.smartandroidapps.audiowidget.MainActivity}" drawable="app_audiomanager" />
 <!-- APP: Auralux --><item component="ComponentInfo{com.wardrumstudios.auralux/com.wardrumstudios.auralux.Auralux}" drawable="app_auralux" />
+<!-- APP: AutoCAD 360 --><item component="ComponentInfo{com.autodesk.autocadws/com.autodesk.autocadws.platform.app.startup.LaunchActivity}" drawable="app_autocad360" />
+<!-- APP: AutoCAD 360 --><item component="ComponentInfo{com.autodesk.autocadws/com.autodesk.autocadws.platform.app.startup.StartupActivity}" drawable="app_autocad360" />
 <!-- APP: AutomateIt Pro --><item component="ComponentInfo{AutomateItPro.mainPackage/automateItLib.mainPackage.AutomateItMainActivity}" drawable="app_automateitpro" />
 <!-- APP: Automatic Call Recorder --><item component="ComponentInfo{com.globaleffect.callrecord/com.globaleffect.callrecord.Activity_Intro}" drawable="app_automaticcallrecorder" />
 <!-- APP: AutoSave MMS --><item component="ComponentInfo{andrewoid.autosavemms/andrewoid.autosavemms.AutoSaveMMSActivity}" drawable="app_autosavemms" />
@@ -394,6 +399,7 @@
 <!-- APP: Dolphin Browser --><item component="ComponentInfo{com.software.dolphin/com.software.dolphin.Main}" drawable="app_dolphin" />
 <!-- APP: Dolphin Browser --><item component="ComponentInfo{mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.BrowserActivity}" drawable="app_dolphin" />
 <!-- APP: Dolphin Browser --><item component="ComponentInfo{mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.BrowserLaunchActivity}" drawable="app_dolphin" />
+<!-- APP: Dolphin Zero --><item component="ComponentInfo{com.dolphin.browser.zero/com.dolphin.browser.zero.main.MainActivity}" drawable="app_dolphin" />
 <!-- APP: Domino's --><item component="ComponentInfo{com.dominospizza/com.dominospizza.activities.InitialLaunchActivity}" drawable="app_domino-s" />
 <!-- APP: DoubleTwist --><item component="ComponentInfo{com.doubleTwist.androidPlayer/com.doubleTwist.androidPlayer.HomePagerActivity}" drawable="app_doubletwist" />
 <!-- APP: DR Nyheder --><item component="ComponentInfo{dk.dr.drnyheder/dk.dr.nyheder.HovedAkt}" drawable="web_drnyheder" />
@@ -433,8 +439,8 @@
 <!-- APP: Emergency AUS --><item component="ComponentInfo{com.gridstone.emergencyaus/com.gridstone.emergencyaus.activities.MainActivity}" drawable="app_emergencyaus" />
 <!-- APP: EML Reader FREE --><item component="ComponentInfo{com.uglyicons.apps.android.emlreader/com.uglyicons.apps.android.emlreader.MainActivity}" drawable="app_emlreaderfree" />
 <!-- APP: Emoji Keyboard --><item component="ComponentInfo{com.mah.emoji.keyboard/com.mah.emoji.keyboard.ui.BeginScreen}" drawable="app_emojikeyboard" />
-<!-- APP: Endomondo --><item component="ComponentInfo{com.endomondo.android.pro/com.endomondo.android.EndoSplash}" drawable="app_endomodo"/>
-<!-- APP: Endomondo --><item component="ComponentInfo{com.endomondo.android/com.endomondo.android.EndoSplash}" drawable="app_endomodo"/>
+<!-- APP: Endomondo --><item component="ComponentInfo{com.endomondo.android.pro/com.endomondo.android.EndoSplash}" drawable="app_endomondo"/>
+<!-- APP: Endomondo --><item component="ComponentInfo{com.endomondo.android/com.endomondo.android.EndoSplash}" drawable="app_endomondo"/>
 <!-- APP: Engadget --><item component="ComponentInfo{com.aol.mobile.engadget/com.aol.mobile.engadget.splashscreen.SplashScreen}" drawable="app_engadget" />
 <!-- APP: Entertainment --><item component="ComponentInfo{com.entertainment.coupons/com.entertainment.coupons.EntertainmentActivity}" drawable="app_entertainment" />
 <!-- APP: Epic Launcher --><item component="ComponentInfo{com.epic.launcher/com.epic.launcher.GEL}" drawable="app_epiclauncher" />
@@ -1218,6 +1224,8 @@
 <!-- APP: Sliding Messaging Pro --><item component="ComponentInfo{com.klinker.android.messaging_donate/com.klinker.android.messaging_donate.MainActivity}" drawable="app_slidingpro" />
 <!-- APP: SlingPlayer --><item component="ComponentInfo{com.slingmedia.slingPlayer/com.slingmedia.slingPlayer.Activities.SBNonStreaming}" drawable="app_slingplayer" />
 <!-- APP: Slow Motion Video --><item component="ComponentInfo{com.jqrapps.slowmotionvideo/com.jqrapps.slowmotionvideo.MainActivity}" drawable="app_slowmotionvideo" />
+<!-- APP: Smart Launcher --><item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="app_smartlauncher" />
+<!-- APP: Smart Launcher --><item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.Workspace}" drawable="app_smartlauncher" />
 <!-- APP: Smart Measure --><item component="ComponentInfo{kr.sira.measure/kr.sira.measure.SmartMeasure}" drawable="app_smartmeasure" />
 <!-- APP: Smart Remote --><item component="ComponentInfo{com.adi.remote.phone/com.adi.remote.ui.TVRemoteActivity}" drawable="app_smartremote" />
 <!-- APP: Smart Remote --><item component="ComponentInfo{com.peel.app/com.peel.app.Home}" drawable="app_smartremote" />
@@ -1362,6 +1370,7 @@
 <!-- APP: The Score --><item component="ComponentInfo{com.fivemobile.thescore/com.fivemobile.thescore.LeagueDispatcher}" drawable="app_thescore" />
 <!-- APP: The Score --><item component="ComponentInfo{com.fivemobile.thescore/com.fivemobile.thescore.SplashActivity}" drawable="app_thescore" />
 <!-- APP: The Weather Channel --><item component="ComponentInfo{com.weather.Weather/com.weather.Weather.activity.WeatherController}" drawable="app_theweatherchannel" />
+<!-- APP: The Whole Pantry --><item component="ComponentInfo{com.thewholepantry/com.thewholepantry.activities.DashboardActivity}" drawable="app_thewholepantry" />
 <!-- APP: theCHIVE --><item component="ComponentInfo{com.thechive/com.thechive.ContentFragmentActivity}" drawable="app_thechive" />
 <!-- APP: Thumb Keyboard --><item component="ComponentInfo{com.beansoft.keyboardplus/com.beansoft.keyboardplus.Main}" drawable="app_thumbkeyboard" />
 <!-- APP: Time Recording Pro --><item component="ComponentInfo{com.dynamicg.timerecording.pro/com.dynamicg.timerecording.Main}" drawable="app_timerecordingpro" />
@@ -1491,6 +1500,8 @@
 <!-- APP: Vodio --><item component="ComponentInfo{com.app.vodio/com.app.vodioapp.ui.activities.SplashActivity}" drawable="app_vodio" /> 
 <!-- APP: Voice --><item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="app_voice" />
 <!-- APP: Voice Choice --><item component="ComponentInfo{com.voiceplusfree/com.voiceplusfree.Splash}" drawable="app_voicechoice" />
+<!-- APP: Voice Commands --><item component="ComponentInfo{com.nuance.android.vsuite.adr8995/com.nuance.android.vsuite.vsuiteapp.VoiceControlActivity}" drawable="app_voicecommands" />
+<!-- APP: Voice Commands --><item component="ComponentInfo{com.nuance.android.vsuite.vsuiteapp/com.nuance.android.vsuite.vsuiteapp.VSuiteStartSession}" drawable="app_voicecommands" />
 <!-- APP: Voice commands --><item component="ComponentInfo{com.nuance.android.vsuite.vsuiteapp/com.nuance.android.vsuite.vsuiteapp.VSuiteStartSession}" drawable="system_voicecommands" />
 <!-- APP: Voice Dialler --><item component="ComponentInfo{com.android.voicedialer/com.android.voicedialer.VoiceDialerActivity}" drawable="app_voicedialler" />
 <!-- APP: Voice Recorder --><item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="app_voicerecorder" />
@@ -1507,6 +1518,7 @@
 <!-- APP: VSCO Cam --><item component="ComponentInfo{com.vsco.cam/com.vsco.cam.SplashActivity}" drawable="app_vscocam" />
 <!-- APP: Vuze --><item component="ComponentInfo{com.vuze.torrent.downloader/com.vuze.torrent.downloader.MainActivity}" drawable="app_vuze" />
 <!-- APP: VVM Plus --><item component="ComponentInfo{com.rogers.vvm/com.communology.vvm.ui.StartActivity}" drawable="app_vvmplus" />
+<!-- APP: Vyclone --><item component="ComponentInfo{com.vyclone.angles/com.vyclone.angles.StartupActivity}" drawable="app_vyclone" />
 <!-- APP: Wakelock Detector --><item component="ComponentInfo{com.uzumapps.wakelockdetector/com.uzumapps.wakelockdetector.activity.IntroActivity}" drawable="app_wakelockdetector" />
 <!-- APP: Walgreens --><item component="ComponentInfo{com.usablenet.mobile.walgreen/com.usablenet.mobile.walgreen.AppStart}" drawable="app_walgreens" />
 <!-- APP: Walking Dead Assault --><item component="ComponentInfo{com.skybound.TWDA/com.OTAndroidApp.AndroidActivity}" drawable="app_walkingdeadassault" />
@@ -1790,6 +1802,8 @@
 <!-- GAME: Subway Surfers --><item component="ComponentInfo{com.kiloo.subwaysurf/com.kiloo.subwaysurf.RRAndroidPluginActivity}" drawable="game_subwaysurfers"/>
 <!-- GAME: Sudoku --><item component="ComponentInfo{uk.co.aifactory.sudoku/uk.co.aifactory.sudoku.SudokuActivity}" drawable="game_sudoku" />
 <!-- GAME: Sudoku Free --><item component="ComponentInfo{com.icenta.sudoku.ui/com.icenta.sudoku.ui.SplashActivity}" drawable="game_sudokufree" />
+<!-- GAME: Super Hexagon --><item component="ComponentInfo{com.distractionware.superhexagon.humble/com.distractionware.superhexagon.humble.SplashScreenActivity}" drawable="game_superhexagon" />
+<!-- GAME: Super Hexagon --><item component="ComponentInfo{com.distractionware.superhexagon/com.distractionware.superhexagon.SplashScreenActivity}" drawable="game_superhexagon" />
 <!-- GAME: Super MAMC --><item component="ComponentInfo{com.pikpok.mamcb/com.pikpok.mamcb.MainActivity}" drawable="game_supermamc" />
 <!-- GAME: SuperGNES --><item component="ComponentInfo{com.bubblezapgames.supergnes/com.bubblezapgames.supergnes.Splash}" drawable="game_supergnes" />
 <!-- GAME: SvZ Defense 2 --><item component="ComponentInfo{com.glu.samuzombie2/com.google.android.vending.expansion.downloader_impl.DownloaderActivity}" drawable="game_svzdefense2" />
@@ -2203,6 +2217,7 @@
 <!-- THEME: Wood --><item component="ComponentInfo{kov.adwtheme.thawood/kov.adwtheme.thawood.splashactivity}" drawable="theme_wood" />
 <!-- THEME: Xmas Cyrcle --><item component="ComponentInfo{com.djskarpia.christmas/gridview.Main}" drawable="app_xmascyrcle" />
 <!-- THEME: Xterra --><item component="ComponentInfo{com.wed.apex.theme.xterra/gridview.Main}" drawable="app_xterra" />
+
 
 </resources>
 
